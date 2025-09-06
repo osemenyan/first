@@ -20,4 +20,8 @@ google 发现是系统无法验证 GitHub 主机的真实性
 - 好像不用管只用输y就行了
 ## 发现需要配置ssh
 ![](./ssh.png)
-
+- 成功克隆
+![](./push.png)
+- 又与vscode结合
+![](./vscode&git.png)
+![](./success.png)
